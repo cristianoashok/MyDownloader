@@ -2,9 +2,8 @@
  <img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/23bcc7c7-d8ed-4cf8-b226-d6b0b23cc4a0" />
 </p>
 
-<p align="center">
-# MyDownloader
-</p>
+<h1 align="center">MyDownloader</h1>
+
 An IDM-style download manager for Windows, written in Python (PySide6), with a companion Chrome extension.
 
 - Multi-connection downloads with **aria2c**, pause/resume, auto-resume when the network comes back
