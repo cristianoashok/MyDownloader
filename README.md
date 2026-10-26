@@ -7,7 +7,7 @@
 An IDM-style download manager for Windows, written in Python (PySide6), with a companion Chrome extension.
 
 - Multi-connection downloads with **aria2c**, pause/resume, auto-resume when the network comes back
-- Video downloads with **yt-dlp** (Vimeo, YouTube and more), quality picker, video + audio merged with **ffmpeg**
+- Video downloads with **yt-dlp**, quality picker, video + audio merged with **ffmpeg**
 - Chrome extension: takes over Chrome downloads, download button on videos, detects streams
 - "Download File Info" dialog that starts downloading in the background (like IDM)
 - Categories, light/dark theme, tray icon, notifications
