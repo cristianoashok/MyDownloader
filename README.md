@@ -17,7 +17,9 @@ An IDM-style download manager for Windows, written in Python (PySide6), with a c
 - <img width="688" height="424" alt="image" src="https://github.com/user-attachments/assets/47f4f132-051e-42a6-910d-127ab47eb7d1" />
 </p>
 
+<p align="center">
 ## Project layout
+</p>
 
 ```
 gui_downloader.py   window (PySide6) - start here
