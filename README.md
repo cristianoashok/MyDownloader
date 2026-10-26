@@ -1,3 +1,8 @@
+       <img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/948a7520-cab4-443d-9c67-7da4a591a26f" />
+
+
+
+
 # MyDownloader
 
 An IDM-style download manager for Windows, written in Python (PySide6), with a companion Chrome extension.
