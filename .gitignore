@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Helper programs (large, separately licensed; see README for downloads)
+aria2c.exe
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+deno.exe
+
+# Personal data written by the app
+settings.json
+downloads_state.json
+downloads_state.json.tmp
+Test/
+
+# Packed extension files
+*.crx
+*.pem
+*.zip
