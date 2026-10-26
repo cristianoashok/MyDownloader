@@ -8,6 +8,9 @@ An IDM-style download manager for Windows, written in Python (PySide6), with a c
 - "Download File Info" dialog that starts downloading in the background (like IDM)
 - Categories, light/dark theme, tray icon, notifications
 
+- <img width="688" height="424" alt="image" src="https://github.com/user-attachments/assets/47f4f132-051e-42a6-910d-127ab47eb7d1" />
+
+
 ## Project layout
 
 ```
